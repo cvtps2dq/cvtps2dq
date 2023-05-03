@@ -11,4 +11,4 @@ RUT(MIIT) 2nd year student.
 
 Hail to the ASM!
 
-![there's a cat meme xddds](cat.png "Entropy Cat")
+![there's a cat meme xddds](./cat.png "Entropy Cat")
