@@ -1,13 +1,30 @@
-### Hi there 👋
+# 👾 cvtps2dq  
 
-I am 20 y.o. middle javascript and C++ programmer.
-Also, i write Python, Ruby and ASM.
+🚀 **Senior Developer | Systems Architect | Low-Level Enthusiast**  
 
-I create audio plug-ins. 🎹
-I preserve legacy. 🎮
-I create tools for creative people. 🎨
-I create learning platforms and compilers.
+## 🔥 Projects I Build  
+### 🏗 **ElementalOS**  
+A powerful, independent Linux distribution.  
 
-RUT(MIIT) 4th year student.
+### 📦 **Anemo**  
+A next-gen package manager built for ElementalOS.  
 
-Hail to the ASM!
+### ⚡ **Electro**  
+A system management utility for ElementalOS.  
+
+### ⚡ **Cryo**  
+A custom userland utilities for ElementalOS.  
+
+### 🔧 **Angara**  
+A high-performance, C-inspired language for IoT and embedded systems.  
+
+### 🎵 **Audio Applications**  
+Innovating in DSP, synthesis, and sound design.  
+
+## 🛠 Languages I Use  
+- **Languages:** C++ | JavaScript | Assembly  
+
+💾 **Always tinkering, always optimizing.**  
+
+### 📡 Connect  
+- 🌐 [GitHub](https://github.com/cvtps2dq)  
