@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm alexey! (or cvtps2dq)</h1>
-<h3 align="center">low-level enthuasist with strong bias for unix-like systems</h3>
+<h3 align="center">low-level enthusiast with strong bias for unix-like systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cvtps2dq&label=Profile%20views&color=0e75b6&style=flat" alt="cvtps2dq" /> </p>
 
