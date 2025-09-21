@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvtps2dq" alt="cvtps2dq" /></a> </p>
 
-- 🔭 I’m currently working on **elementOS. a independent linux distribution**
+- 🔭 I’m currently working on **lumina. a independent linux distribution**, as well as **Angara, a statically typed programming language.**
 
-- 🌱 I’m currently learning **C++ and linux kernel developement**
+- 🌱 I’m currently working as a senior C++ developer at 1T.
 
 - 👯 I’m looking to collaborate on **linux kernel**
-
-- 🤝 I’m looking for help with **writing build scripts for dendro to build elementOS**
 
 - 👨‍💻 All of my projects are available at this github profile
 
